@@ -1,0 +1,25 @@
+{
+  "name": "@wdalmut/mini-auth",
+  "version": "0.0.2",
+  "description": "Express authentication middleware",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine $@"
+  },
+  "author": "Walter Dal Mut <walter.dalmut@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.16.2",
+    "jasmine": "^3.1.0",
+    "request": "^2.83.0",
+    "supertest": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wdalmut/mini-auth-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wdalmut/mini-auth-js/issues"
+  },
+  "homepage": "https://github.com/wdalmut/mini-auth-js#readme"
+}
